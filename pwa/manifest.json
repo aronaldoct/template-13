@@ -1,0 +1,29 @@
+{
+    "name": "Diamond Page",
+    "short_name": "PageP",
+    "description": "Portafolio personalizable",
+    "background_color": "#4c5c96",
+    "theme_color": "#4c5c96",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+        {
+            "src": "../images/pwa/diamante.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "../images/pwa/diamante1.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "../images/pwa/diamante2.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ]
+  }
